@@ -24,10 +24,9 @@ Eigen Kütüphanesiile c++ ve matlab fonksiyonları kullanılarak çözülmüş 
     git clone https://github.com/microsoft/vcpkg
   ```
 
-  
   <img src="https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/img/kurulum/1.%20kurulum.gif" height="300">
 
-1. CMD üzerinden aşağıdaki komut satırını yazdım.
+2. CMD üzerinden aşağıdaki komut satırını yazdım.
 
   ```bash
     .\vcpkg\bootstrap-vcpkg.bat
@@ -35,7 +34,7 @@ Eigen Kütüphanesiile c++ ve matlab fonksiyonları kullanılarak çözülmüş 
 
   <img src="https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/img/kurulum/2.%20kurulum.gif" height="300">
 
-1.  CMD içinden vcpkg’yi kurduğum klasöre gidip aşağıdaki komutu yazdım.
+3.  CMD içinden vcpkg’yi kurduğum klasöre gidip aşağıdaki komutu yazdım.
 
   ```bash
   vcpkg search
