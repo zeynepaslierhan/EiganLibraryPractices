@@ -14,44 +14,64 @@ Eigen Kütüphanesiile c++ ve matlab fonksiyonları kullanılarak çözülmüş 
 
 **Eigen;** lineer cebir, matris ve vektör işlemleri, geometrik dönüşümler, sayısal çözücüler ve ilgili algoritmalar için üst düzey bir C++ şablon başlıkları kitaplığıdır.
 
+<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/busy-cute.gif" align="right" height="200">
+
 ## Eigen Kütüphanesi Kurulumu 🔧
 
 1. https://github.com/Microsoft/vcpkg reposunu 📍`C:\dev` klasörü içerisine klonladım. Bunun için git bash kullandım.
 
-```git bash
-  git clone https://github.com/microsoft/vcpkg
-```
+  ```git bash
+    git clone https://github.com/microsoft/vcpkg
+  ```
 
-2. CMD üzerinden aşağıdaki komut satırını yazdım.
+  
+  <img src="https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/img/kurulum/1.%20kurulum.gif" height="300">
 
-```bash
-  .\vcpkg\bootstrap-vcpkg.bat
-```
+1. CMD üzerinden aşağıdaki komut satırını yazdım.
 
-3.  CMD içinden vcpkg’yi kurduğum klasöre gidip aşağıdaki komutu yazdım.
+  ```bash
+    .\vcpkg\bootstrap-vcpkg.bat
+  ```
 
-```bash
- vcpkg search
-```
+  <img src="https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/img/kurulum/2.%20kurulum.gif" height="300">
+
+1.  CMD içinden vcpkg’yi kurduğum klasöre gidip aşağıdaki komutu yazdım.
+
+  ```bash
+  vcpkg search
+  ```
+  
+  <img src="https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/img/kurulum/3.%20kurulum.gif" height="300">
+  
+  </br>
 
 > **🚨 Bilgisayarınızda C++ kurulu olduğundan emin olun.**
 
+  </br>
+
 4. eigen3 kütüphanesini indirmek için aşağıdaki komut satırını CMD'ye yazdım:
 
-```bash
-  vcpkg.exe install eigen3
-```
+  ```bash
+    vcpkg.exe install eigen3
+  ```
+  
+  <img src="https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/img/kurulum/4.%20kurulum.gif" height="300">
 
 5. Kurulum başarılıysa CMD'ye `vcpkg list` yazdığınız zaman aşağıdaki gibi görmelisiniz.
+
+
+  <img src="https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/img/kurulum/5.%20kurulum.gif" height="300">
 
 
 ## Eigen ile Visual Studio Entegrasyonu 🔧
 
 1. CMD içerisine aşağıdaki komutu girin:
 
-```bash
-   vcpkg.exe integrate install
-```
+  ```bash
+    vcpkg.exe integrate install
+  ```
+
+  <img src="https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/img/kurulum/6.%20kurulum.gif" height="300">
 
 
 
