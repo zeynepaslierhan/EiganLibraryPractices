@@ -23,7 +23,7 @@ Eigen Kütüphanesi ile c++ ve matlab fonksiyonları kullanılarak çözülmüş
 
 ## Repo içerisindeki Pratikler:
 
-1. [EigenLibraryPractices1, 💻*kodlar..*](https://github.com/zeynepaslierhan/EiganLibraryPractices)
+1. [EigenLibraryPractices1, 💻*kodlar..*](https://github.com/zeynepaslierhan/EiganLibraryPractices/tree/main/EigenLibraryPractices1)
 
 ## Eigen Kütüphanesi Nedir :question:
 
