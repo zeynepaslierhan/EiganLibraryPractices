@@ -106,6 +106,7 @@ Eigen Kütüphanesi ile c++ ve matlab fonksiyonları kullanılarak çözülmüş
 1. Kocaeli Üniversitesi, Dr.Öğr.Üyesi ALPASLAN BURAK İNNER 
 1. [Eigen Library Installation And Crash Course C++](https://www.youtube.com/watch?v=6mMjv-tA5Jk&t=141s)
 1. [Eigen kütüphanesi kurulumu, yapbenzet](http://yapbenzet.kocaeli.edu.tr/eigen-kutuphanesi-kurulumu/)
+2. [Matlab to Eigen](https://igl.ethz.ch/projects/libigl/matlab-to-eigen.html)
 
 
 ---
