@@ -20,11 +20,11 @@ Eigen kütüphanesini daha iyi anlamak için yaptığım temel seviyedeki pratik
 2. OpenCV kütüphanesi [github/opencv'den](https://github.com/opencv/opencv/releases/tag/4.2.0) ".exe" uzantılı dosya indirildi. C:\opencv dosyası içersine kuruldu.
 3. opencv'nin bin dosyası path olarak eklendi.
 
-  <img src="https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/img/Practices1/opencv%20path.gif" align="right" height="300">
+  <img src="https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/img/Practices1/opencv%20path.gif" height="300">
 
-1. opencv kütüphanesinin vs üzerinden ayarı yapıldı.
+4. opencv kütüphanesinin vs üzerinden ayarı yapıldı.
 
-  <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/BanaBenziyor.gif" align="right" height="300">
+  <img src="https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/img/Practices1/opencv%20VS%20ayar%C4%B1.gif" height="300">
 
 
 
