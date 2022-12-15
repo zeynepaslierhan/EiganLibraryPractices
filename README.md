@@ -94,11 +94,11 @@ Eigen Kütüphanesi ile c++ ve matlab fonksiyonları kullanılarak çözülmüş
 
   1. "Release" ve "x64" ayarı yapılır.
     
-    <img src="https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/img/Temel%20bilgiler/Temel%20Bilgiler%201.png" height="200">
+  <img src="https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/img/Temel%20bilgiler/Temel%20Bilgiler%201.png" height="60">
   
   2. Proje ayarlarında düzenleme yapılır:
 
-     <img src="https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/img/Temel%20bilgiler/VS%20ayar%C4%B1%202.gif" height="200">
+  <img src="https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/img/Temel%20bilgiler/VS%20ayar%C4%B1%202.gif" height="300">
 
 
 ## Kaynakça 🗃️
