@@ -9,7 +9,7 @@
 <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/busy-cute.gif" align="right" height="200">
 
 
-Eigen Kütüphanesi ile c++ ve matlab fonksiyonları kullanılarak çözülmüş sorular, bu repoda bulunmaktadır.
+Eigen Kütüphanesi ile ilgili çalışmalarım bu repoda yer almaktadır.
 
 **🧰 Araçlar:** *Visual Studio ve Matlab*
 
