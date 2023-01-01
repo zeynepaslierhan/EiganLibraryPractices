@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/zeynepaslierhan/.NetCoreArchive"><img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/Logo.png" alt="SoftwareDeveloperArchive" width="200"></a>
   <br>
-  Eigen Kütüphanesi için Sorular
+  Eigen Kütüphanesi için Temel Bilgiler
   <br>
 </h1>
 
