@@ -20,7 +20,8 @@ Eigen Kütüphanesi ile ilgili çalışmalarım bu repoda yer almaktadır.
 3. [Eigen ile Visual Studio Entegrasyonu 🔧](https://github.com/zeynepaslierhan/EiganLibraryPractices#eigen-ile-visual-studio-entegrasyonu-)
 4. [Eigen Kütüphanesi ile Proje kurulumu](https://github.com/zeynepaslierhan/EiganLibraryPractices#eigen-k%C3%BCt%C3%BCphanesi-ile-proje-kurulumu)
 5. [Eigen Kütüphanesi Temel Bilgiler](https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/EigenTemelBilgiler.md)
-6. [Kaynakça 🗃️](https://github.com/zeynepaslierhan/EiganLibraryPractices#kaynak%C3%A7a-%EF%B8%8F)
+6. [Eigen Kütüphanesinin yanında Bilinmesi Gerekenler](https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/EigenYan%C4%B1ndaBilinmesiGerekenler.md)
+7. [Kaynakça 🗃️](https://github.com/zeynepaslierhan/EiganLibraryPractices#kaynak%C3%A7a-%EF%B8%8F)
 
 
 ## Eigen Kütüphanesi Nedir :question:
