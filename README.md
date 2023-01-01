@@ -18,8 +18,9 @@ Eigen Kütüphanesi ile ilgili çalışmalarım bu repoda yer almaktadır.
 1. [Eigen Kütüphanesi Nedir :question:](https://github.com/zeynepaslierhan/EiganLibraryPractices#eigen-k%C3%BCt%C3%BCphanesi-nedir-question)
 2. [Eigen Kütüphanesi Kurulumu 🔧](https://github.com/zeynepaslierhan/EiganLibraryPractices#eigen-k%C3%BCt%C3%BCphanesi-kurulumu-)
 3. [Eigen ile Visual Studio Entegrasyonu 🔧](https://github.com/zeynepaslierhan/EiganLibraryPractices#eigen-ile-visual-studio-entegrasyonu-)
-4. Eigen Kütüphanesi Temel Bilgiler
-5. [Kaynakça 🗃️](https://github.com/zeynepaslierhan/EiganLibraryPractices#kaynak%C3%A7a-%EF%B8%8F)
+4. [Eigen Kütüphanesi ile Proje kurulumu]()
+5. [Eigen Kütüphanesi Temel Bilgiler](https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/EigenTemelBilgiler.md)
+6. [Kaynakça 🗃️](https://github.com/zeynepaslierhan/EiganLibraryPractices#kaynak%C3%A7a-%EF%B8%8F)
 
 ## Repo içerisindeki Pratikler:
 
@@ -86,7 +87,7 @@ Eigen Kütüphanesi ile ilgili çalışmalarım bu repoda yer almaktadır.
   <img src="https://github.com/zeynepaslierhan/EiganLibraryPractices/blob/main/img/kurulum/6.%20kurulum.gif" height="300">
 
 
-## Eigen Kütüphanesi Temel Bilgiler
+## Eigen Kütüphanesi ile Proje kurulumu
 
 📌 Visual Studio'dan C++ Empty Project oluşturulur.
 
